@@ -3,6 +3,7 @@
 Includes following Data structures and Algorithm implementations:
 - Patterns
 - Arrays
+- Basic Maths
 
 Most of the DSA problems solved here are from Striver's takeUForward course.
 
